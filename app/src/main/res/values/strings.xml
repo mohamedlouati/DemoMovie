@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoMovie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="overview">Overview: %1$s</string>
+    <string name="release">Release: %1$s</string>
+    <string name="vote">Vote: %1$,.1f</string>
+</resources>
